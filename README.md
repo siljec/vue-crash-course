@@ -1,5 +1,7 @@
 # vue-crash-course
 
+Followed this tutorial: https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=5058s
+
 ## Project setup
 ```
 yarn install
